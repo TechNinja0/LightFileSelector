@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FileSelect Library</string>
+    <string name="empty">文件夹为空</string>
+    <string name="save">保存(10)</string>
+    <string name="file_NotFoundPath">未找到文件</string>
+    <string name="lfile_OutSize">最多选择%1$s文件</string>
+    <string name="file_Outlength">文件大小不超过%1$s</string>
+</resources>

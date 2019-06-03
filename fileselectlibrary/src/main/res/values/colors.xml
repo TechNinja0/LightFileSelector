@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_all_bg">#F8F9FB</color>
+    <color name="color_bg_press">#EEEEEE</color>
+    <color name="color_bg_normal">#FFFFFF</color>
+    <color name="color_blue">#1A8AFA</color>
+    <color name="color_gray6">#666666</color>
+    <color name="color_gray8">#888888</color>
+    <color name="color_grayC">#cccccc</color>
+    <color name="color_text_gray">#A6A6A6</color>
+    <color name="color_text_black">#323232</color>
+</resources>

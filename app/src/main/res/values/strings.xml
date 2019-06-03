@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FileSelector</string>
+    <string name="file_manager">文件管理</string>
+    <string name="selectfile">SelectFile</string>
+    <string name="phone_ram">手机内存</string>
+    <string name="sd_ram">SD卡</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:background="@color/color_all_bg"
+    android:focusable="true">
+    <com.tea.fileselectlibrary.view.EmptyRecyclerView
+        android:id="@+id/recylerview"
+        android:layout_marginTop="9dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <include
+        android:id="@+id/empty_view"
+        layout="@layout/file_emptyview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</FrameLayout>
